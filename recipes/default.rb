@@ -1,5 +1,5 @@
 include_recipe "apt"
 
-package "optipng" do
+package "jpegoptim" do
   action :upgrade
 end

@@ -1,11 +1,11 @@
-# chef-optipng
+# chef-jpegoptim
 
-Installs [OptiPNG](http://optipng.sourceforge.net/).
+Installs [jpegoptim](http://www.kokkonen.net/tjko/projects.html).
 
 
 ## Recipes
 
-* `optipng`: installs OptiPNG
+* `jpegoptim`: installs jpegoptim
 
 
 ## Legal
